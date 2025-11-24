@@ -1,0 +1,27 @@
+<header
+    class="fixed top-0 w-full z-50 border-b border-border/40 bg-background/80 backdrop-blur-md supports-[backdrop-filter]:bg-background/60">
+    <div class="container mx-auto flex h-14 max-w-screen-2xl items-center justify-between px-6">
+        <div class="flex items-center">
+            <a class="mr-6 flex items-center space-x-2" href="/">
+                <div class="h-6 w-6 rounded-sm flex items-center justify-center">
+                    <img src="<%= webConfig.iconUrl %>" alt="<%= webConfig.siteName %>" class="h-6 w-6 object-contain">
+                </div>
+                <span class="hidden font-bold sm:inline-block">
+                    <%= webConfig.siteName %>
+                </span>
+            </a>
+            <nav class="hidden lg:flex items-center space-x-6 text-sm font-medium">
+                <a class="transition-colors hover:text-foreground/80 <%= (typeof currentPath !== 'undefined' && currentPath === '/') ? 'text-foreground' : 'text-foreground/60' %>"
+                    href="/#features">Features</a>
+                <a class="transition-colors hover:text-foreground/80 <%= (typeof currentPath !== 'undefined' && currentPath === '/docs') ? 'text-foreground' : 'text-foreground/60' %>"
+                    href="/docs">API</a>
+                <a class="transition-colors hover:text-foreground/80 text-foreground/60"
+                    href="https://github.com">GitHub</a>
+            </nav>
+        </div>
+        <a href="/chat"
+            class="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-9 px-4 py-2">
+            Try Now
+        </a>
+    </div>
+</header>

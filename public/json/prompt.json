@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 1,
+        "title": "Explain quantum computing",
+        "subtitle": "in simple terms",
+        "category": "Education"
+    },
+    {
+        "id": 2,
+        "title": "Write a python script",
+        "subtitle": "to scrape a website",
+        "category": "Coding"
+    },
+    {
+        "id": 3,
+        "title": "Draft a cold email",
+        "subtitle": "to a potential client",
+        "category": "Business"
+    },
+    {
+        "id": 4,
+        "title": "Create a workout plan",
+        "subtitle": "for a beginner at home",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 5,
+        "title": "Debug this code snippet",
+        "subtitle": "and find the logic error",
+        "category": "Coding"
+    },
+    {
+        "id": 6,
+        "title": "Summarize this article",
+        "subtitle": "into three bullet points",
+        "category": "Writing"
+    },
+    {
+        "id": 7,
+        "title": "Suggest a dinner menu",
+        "subtitle": "that is vegan and gluten-free",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 8,
+        "title": "Write a haiku",
+        "subtitle": "about artificial intelligence",
+        "category": "Creative"
+    },
+    {
+        "id": 9,
+        "title": "Explain the theory of relativity",
+        "subtitle": "like I am five years old",
+        "category": "Education"
+    },
+    {
+        "id": 10,
+        "title": "Generate a SQL query",
+        "subtitle": "to find the top 10 customers",
+        "category": "Coding"
+    },
+    {
+        "id": 11,
+        "title": "Plan a weekend trip",
+        "subtitle": "to Paris on a budget",
+        "category": "Travel"
+    },
+    {
+        "id": 12,
+        "title": "Write a cover letter",
+        "subtitle": "for a graphic designer role",
+        "category": "Business"
+    },
+    {
+        "id": 13,
+        "title": "Create a study schedule",
+        "subtitle": "for a history exam",
+        "category": "Education"
+    },
+    {
+        "id": 14,
+        "title": "Design a logo concept",
+        "subtitle": "for a sustainable coffee brand",
+        "category": "Design"
+    },
+    {
+        "id": 15,
+        "title": "Translate this paragraph",
+        "subtitle": "into professional Spanish",
+        "category": "Language"
+    },
+    {
+        "id": 16,
+        "title": "Explain photosynthesis",
+        "subtitle": "using a creative analogy",
+        "category": "Education"
+    },
+    {
+        "id": 17,
+        "title": "Write a React component",
+        "subtitle": "for a navigation bar",
+        "category": "Coding"
+    },
+    {
+        "id": 18,
+        "title": "Give me a gift idea",
+        "subtitle": "for a tech-savvy teenager",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 19,
+        "title": "Analyze this financial report",
+        "subtitle": "and highlight key risks",
+        "category": "Business"
+    },
+    {
+        "id": 20,
+        "title": "Write a short story",
+        "subtitle": "set in a cyberpunk future",
+        "category": "Creative"
+    },
+    {
+        "id": 21,
+        "title": "Convert this JSON",
+        "subtitle": "into a CSV format",
+        "category": "Coding"
+    },
+    {
+        "id": 22,
+        "title": "Brainstorm blog titles",
+        "subtitle": "about digital marketing",
+        "category": "Writing"
+    },
+    {
+        "id": 23,
+        "title": "How does blockchain work?",
+        "subtitle": "Explain the fundamentals",
+        "category": "Education"
+    },
+    {
+        "id": 24,
+        "title": "Create a playlist",
+        "subtitle": "for focused studying",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 25,
+        "title": "Write a resignation letter",
+        "subtitle": "that is polite and professional",
+        "category": "Business"
+    },
+    {
+        "id": 26,
+        "title": "Explain HTTP vs HTTPS",
+        "subtitle": "and why it matters",
+        "category": "Coding"
+    },
+    {
+        "id": 27,
+        "title": "Suggest a book",
+        "subtitle": "similar to '1984'",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 28,
+        "title": "Create a marketing strategy",
+        "subtitle": "for a new mobile app",
+        "category": "Business"
+    },
+    {
+        "id": 29,
+        "title": "Write a bash script",
+        "subtitle": "to automate backups",
+        "category": "Coding"
+    },
+    {
+        "id": 30,
+        "title": "Tell me a joke",
+        "subtitle": "about software engineers",
+        "category": "Fun"
+    },
+    {
+        "id": 31,
+        "title": "Explain machine learning",
+        "subtitle": "without using math",
+        "category": "Education"
+    },
+    {
+        "id": 32,
+        "title": "Draft a press release",
+        "subtitle": "announcing a product launch",
+        "category": "Business"
+    },
+    {
+        "id": 33,
+        "title": "Create a color palette",
+        "subtitle": "inspired by the ocean",
+        "category": "Design"
+    },
+    {
+        "id": 34,
+        "title": "Write a regular expression",
+        "subtitle": "to validate email addresses",
+        "category": "Coding"
+    },
+    {
+        "id": 35,
+        "title": "Plan a date night",
+        "subtitle": "that is romantic but cheap",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 36,
+        "title": "Review this contract",
+        "subtitle": "and flag unusual clauses",
+        "category": "Legal"
+    },
+    {
+        "id": 37,
+        "title": "Write a social media post",
+        "subtitle": "promoting a webinar",
+        "category": "Marketing"
+    },
+    {
+        "id": 38,
+        "title": "Explain the French Revolution",
+        "subtitle": "in under 200 words",
+        "category": "History"
+    },
+    {
+        "id": 39,
+        "title": "Build a REST API",
+        "subtitle": "using Node.js and Express",
+        "category": "Coding"
+    },
+    {
+        "id": 40,
+        "title": "Suggest a hobby",
+        "subtitle": "to improve mental health",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 41,
+        "title": "Write a Dockerfile",
+        "subtitle": "for a Python application",
+        "category": "Coding"
+    },
+    {
+        "id": 42,
+        "title": "Create an itinerary",
+        "subtitle": "for 3 days in Tokyo",
+        "category": "Travel"
+    },
+    {
+        "id": 43,
+        "title": "Explain NFTs",
+        "subtitle": "and their use cases",
+        "category": "Education"
+    },
+    {
+        "id": 44,
+        "title": "Draft a speech",
+        "subtitle": "for a wedding toast",
+        "category": "Writing"
+    },
+    {
+        "id": 45,
+        "title": "Optimize this function",
+        "subtitle": "for better performance",
+        "category": "Coding"
+    },
+    {
+        "id": 46,
+        "title": "Suggest a movie",
+        "subtitle": "with a plot twist",
+        "category": "Entertainment"
+    },
+    {
+        "id": 47,
+        "title": "Write a job description",
+        "subtitle": "for a Project Manager",
+        "category": "Business"
+    },
+    {
+        "id": 48,
+        "title": "Explain String Theory",
+        "subtitle": "in layman's terms",
+        "category": "Science"
+    },
+    {
+        "id": 49,
+        "title": "Create a CSS grid",
+        "subtitle": "for a photo gallery",
+        "category": "Coding"
+    },
+    {
+        "id": 50,
+        "title": "Plan a birthday party",
+        "subtitle": "for a 10-year-old",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 51,
+        "title": "Write a thank you note",
+        "subtitle": "after a job interview",
+        "category": "Business"
+    },
+    {
+        "id": 52,
+        "title": "Explain how encryption works",
+        "subtitle": "using a lock and key analogy",
+        "category": "Tech"
+    },
+    {
+        "id": 53,
+        "title": "Create a TypeScript interface",
+        "subtitle": "for a user object",
+        "category": "Coding"
+    },
+    {
+        "id": 54,
+        "title": "Suggest a podcast",
+        "subtitle": "about true crime",
+        "category": "Entertainment"
+    },
+    {
+        "id": 55,
+        "title": "Write a mission statement",
+        "subtitle": "for a non-profit organization",
+        "category": "Business"
+    },
+    {
+        "id": 56,
+        "title": "Explain the water cycle",
+        "subtitle": "for a biology class",
+        "category": "Education"
+    },
+    {
+        "id": 57,
+        "title": "Sort an array",
+        "subtitle": "using bubble sort in C++",
+        "category": "Coding"
+    },
+    {
+        "id": 58,
+        "title": "Give me advice",
+        "subtitle": "on overcoming procrastination",
+        "category": "Productivity"
+    },
+    {
+        "id": 59,
+        "title": "Write a catchy headline",
+        "subtitle": "for an article about sleep",
+        "category": "Writing"
+    },
+    {
+        "id": 60,
+        "title": "Explain the stock market",
+        "subtitle": "basics to a beginner",
+        "category": "Finance"
+    },
+    {
+        "id": 61,
+        "title": "Create a Kubernetes YAML",
+        "subtitle": "for a deployment",
+        "category": "Coding"
+    },
+    {
+        "id": 62,
+        "title": "Plan a road trip",
+        "subtitle": "across Route 66",
+        "category": "Travel"
+    },
+    {
+        "id": 63,
+        "title": "Draft a memo",
+        "subtitle": "regarding office policy changes",
+        "category": "Business"
+    },
+    {
+        "id": 64,
+        "title": "Suggest a wine pairing",
+        "subtitle": "for a spicy curry",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 65,
+        "title": "Explain recursion",
+        "subtitle": "with a visual example",
+        "category": "Coding"
+    },
+    {
+        "id": 66,
+        "title": "Write a song synopsis",
+        "subtitle": "about a lost astronaut",
+        "category": "Creative"
+    },
+    {
+        "id": 67,
+        "title": "Create a budget plan",
+        "subtitle": "for a college student",
+        "category": "Finance"
+    },
+    {
+        "id": 68,
+        "title": "Explain compound interest",
+        "subtitle": "and the rule of 72",
+        "category": "Finance"
+    },
+    {
+        "id": 69,
+        "title": "Center a div",
+        "subtitle": "using CSS Flexbox",
+        "category": "Coding"
+    },
+    {
+        "id": 70,
+        "title": "Give me a riddle",
+        "subtitle": "that is hard to solve",
+        "category": "Fun"
+    },
+    {
+        "id": 71,
+        "title": "Write a bio",
+        "subtitle": "for a LinkedIn profile",
+        "category": "Business"
+    },
+    {
+        "id": 72,
+        "title": "Explain dark matter",
+        "subtitle": "and why it is invisible",
+        "category": "Science"
+    },
+    {
+        "id": 73,
+        "title": "Create a Python class",
+        "subtitle": "representing a Bank Account",
+        "category": "Coding"
+    },
+    {
+        "id": 74,
+        "title": "Suggest a board game",
+        "subtitle": "for a family of four",
+        "category": "Entertainment"
+    },
+    {
+        "id": 75,
+        "title": "Draft an apology email",
+        "subtitle": "to a dissatisfied customer",
+        "category": "Business"
+    },
+    {
+        "id": 76,
+        "title": "Explain the hero's journey",
+        "subtitle": "in storytelling",
+        "category": "Writing"
+    },
+    {
+        "id": 77,
+        "title": "Convert this loop",
+        "subtitle": "into a list comprehension",
+        "category": "Coding"
+    },
+    {
+        "id": 78,
+        "title": "Plan a garden",
+        "subtitle": "for a small balcony",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 79,
+        "title": "Write a slogan",
+        "subtitle": "for an eco-friendly car",
+        "category": "Marketing"
+    },
+    {
+        "id": 80,
+        "title": "Explain DNS",
+        "subtitle": "like a phonebook",
+        "category": "Tech"
+    },
+    {
+        "id": 81,
+        "title": "Create a Java interface",
+        "subtitle": "for a vehicle system",
+        "category": "Coding"
+    },
+    {
+        "id": 82,
+        "title": "Suggest a skincare routine",
+        "subtitle": "for dry skin",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 83,
+        "title": "Write a script",
+        "subtitle": "for a YouTube intro",
+        "category": "Content"
+    },
+    {
+        "id": 84,
+        "title": "Explain supply and demand",
+        "subtitle": "with real-world examples",
+        "category": "Economics"
+    },
+    {
+        "id": 85,
+        "title": "Implement binary search",
+        "subtitle": "in Python",
+        "category": "Coding"
+    },
+    {
+        "id": 86,
+        "title": "Plan a surprise party",
+        "subtitle": "checklist and timeline",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 87,
+        "title": "Draft a proposal",
+        "subtitle": "for a remote work policy",
+        "category": "Business"
+    },
+    {
+        "id": 88,
+        "title": "Explain cloud computing",
+        "subtitle": "benefits vs on-premise",
+        "category": "Tech"
+    },
+    {
+        "id": 89,
+        "title": "Create a MongoDB schema",
+        "subtitle": "for an e-commerce store",
+        "category": "Coding"
+    },
+    {
+        "id": 90,
+        "title": "Suggest a hiking trail",
+        "subtitle": "near San Francisco",
+        "category": "Travel"
+    },
+    {
+        "id": 91,
+        "title": "Write a review",
+        "subtitle": "for a fictional restaurant",
+        "category": "Writing"
+    },
+    {
+        "id": 92,
+        "title": "Explain entropy",
+        "subtitle": "in thermodynamics",
+        "category": "Science"
+    },
+    {
+        "id": 93,
+        "title": "Connect to an API",
+        "subtitle": "using Python requests",
+        "category": "Coding"
+    },
+    {
+        "id": 94,
+        "title": "Give me a motivational quote",
+        "subtitle": "for Monday morning",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 95,
+        "title": "Draft a lease agreement",
+        "subtitle": "template for a landlord",
+        "category": "Legal"
+    },
+    {
+        "id": 96,
+        "title": "Explain the placebo effect",
+        "subtitle": "in medicine",
+        "category": "Science"
+    },
+    {
+        "id": 97,
+        "title": "Create a Swift struct",
+        "subtitle": "for a weather app",
+        "category": "Coding"
+    },
+    {
+        "id": 98,
+        "title": "Suggest a topic",
+        "subtitle": "for a debate club",
+        "category": "Education"
+    },
+    {
+        "id": 99,
+        "title": "Write a fable",
+        "subtitle": "about a fox and a robot",
+        "category": "Creative"
+    },
+    {
+        "id": 100,
+        "title": "Explain 5G technology",
+        "subtitle": "and how it is faster",
+        "category": "Tech"
+    },
+    {
+        "id": 101,
+        "title": "Setup a virtual env",
+        "subtitle": "for Python development",
+        "category": "Coding"
+    },
+    {
+        "id": 102,
+        "title": "Plan a keto meal",
+        "subtitle": "for lunch",
+        "category": "Health"
+    },
+    {
+        "id": 103,
+        "title": "Draft a newsletter",
+        "subtitle": "for a tech community",
+        "category": "Marketing"
+    },
+    {
+        "id": 104,
+        "title": "Explain plate tectonics",
+        "subtitle": "and earthquakes",
+        "category": "Science"
+    },
+    {
+        "id": 105,
+        "title": "Create a git alias",
+        "subtitle": "for a cleaner log",
+        "category": "Coding"
+    },
+    {
+        "id": 106,
+        "title": "Suggest a classic novel",
+        "subtitle": "that is under 300 pages",
+        "category": "Literature"
+    },
+    {
+        "id": 107,
+        "title": "Write a recursive function",
+        "subtitle": "to calculate Fibonacci",
+        "category": "Coding"
+    },
+    {
+        "id": 108,
+        "title": "Explain inflation",
+        "subtitle": "causes and effects",
+        "category": "Economics"
+    },
+    {
+        "id": 109,
+        "title": "Design a business card",
+        "subtitle": "layout and typography",
+        "category": "Design"
+    },
+    {
+        "id": 110,
+        "title": "Create a pie chart",
+        "subtitle": "using Matplotlib",
+        "category": "Coding"
+    },
+    {
+        "id": 111,
+        "title": "Plan a minimalist wardrobe",
+        "subtitle": "capsule collection",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 112,
+        "title": "Write a letter",
+        "subtitle": "to your future self",
+        "category": "Creative"
+    },
+    {
+        "id": 113,
+        "title": "Explain VPNs",
+        "subtitle": "and privacy benefits",
+        "category": "Tech"
+    },
+    {
+        "id": 114,
+        "title": "Add an event listener",
+        "subtitle": "to a button in JavaScript",
+        "category": "Coding"
+    },
+    {
+        "id": 115,
+        "title": "Suggest a yoga pose",
+        "subtitle": "for back pain relief",
+        "category": "Health"
+    },
+    {
+        "id": 116,
+        "title": "Draft a user manual",
+        "subtitle": "for a coffee machine",
+        "category": "Writing"
+    },
+    {
+        "id": 117,
+        "title": "Explain cognitive bias",
+        "subtitle": "with common examples",
+        "category": "Psychology"
+    },
+    {
+        "id": 118,
+        "title": "Parse a date string",
+        "subtitle": "using moment.js",
+        "category": "Coding"
+    },
+    {
+        "id": 119,
+        "title": "Plan a team building",
+        "subtitle": "activity for remote workers",
+        "category": "Business"
+    },
+    {
+        "id": 120,
+        "title": "Write a synopsis",
+        "subtitle": "for a documentary film",
+        "category": "Creative"
+    },
+    {
+        "id": 121,
+        "title": "Explain agile methodology",
+        "subtitle": "scrum vs kanban",
+        "category": "Business"
+    },
+    {
+        "id": 122,
+        "title": "Create a HTML table",
+        "subtitle": "with styled headers",
+        "category": "Coding"
+    },
+    {
+        "id": 123,
+        "title": "Suggest a dessert",
+        "subtitle": "using only 3 ingredients",
+        "category": "Food"
+    },
+    {
+        "id": 124,
+        "title": "Draft a SWOT analysis",
+        "subtitle": "for a local bakery",
+        "category": "Business"
+    },
+    {
+        "id": 125,
+        "title": "Explain the Big Bang",
+        "subtitle": "and the expansion of the universe",
+        "category": "Science"
+    },
+    {
+        "id": 126,
+        "title": "Merge two arrays",
+        "subtitle": "and remove duplicates",
+        "category": "Coding"
+    },
+    {
+        "id": 127,
+        "title": "Plan a picnic",
+        "subtitle": "menu and essentials list",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 128,
+        "title": "Write a limerick",
+        "subtitle": "about a coding bug",
+        "category": "Fun"
+    },
+    {
+        "id": 129,
+        "title": "Explain SQL injection",
+        "subtitle": "and how to prevent it",
+        "category": "Security"
+    },
+    {
+        "id": 130,
+        "title": "Create a Go struct",
+        "subtitle": "with JSON tags",
+        "category": "Coding"
+    },
+    {
+        "id": 131,
+        "title": "Suggest a meditation",
+        "subtitle": "technique for anxiety",
+        "category": "Health"
+    },
+    {
+        "id": 132,
+        "title": "Draft a recommendation",
+        "subtitle": "letter for a colleague",
+        "category": "Business"
+    },
+    {
+        "id": 133,
+        "title": "Explain mitosis",
+        "subtitle": "steps of cell division",
+        "category": "Biology"
+    },
+    {
+        "id": 134,
+        "title": "Write a cron job",
+        "subtitle": "to run every Sunday",
+        "category": "Coding"
+    },
+    {
+        "id": 135,
+        "title": "Plan a staycation",
+        "subtitle": "schedule for relaxing",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 136,
+        "title": "Write a product description",
+        "subtitle": "for organic soap",
+        "category": "Marketing"
+    },
+    {
+        "id": 137,
+        "title": "Explain API latency",
+        "subtitle": "and how to reduce it",
+        "category": "Tech"
+    },
+    {
+        "id": 138,
+        "title": "Create a Pandas dataframe",
+        "subtitle": "from a dictionary",
+        "category": "Coding"
+    },
+    {
+        "id": 139,
+        "title": "Suggest a documentary",
+        "subtitle": "about nature",
+        "category": "Entertainment"
+    },
+    {
+        "id": 140,
+        "title": "Draft a speech",
+        "subtitle": "for a graduation ceremony",
+        "category": "Writing"
+    },
+    {
+        "id": 141,
+        "title": "Explain OOP concepts",
+        "subtitle": "inheritance and polymorphism",
+        "category": "Coding"
+    },
+    {
+        "id": 142,
+        "title": "Write a sed command",
+        "subtitle": "to replace text in a file",
+        "category": "Coding"
+    },
+    {
+        "id": 143,
+        "title": "Plan a vegetable garden",
+        "subtitle": "layout for spring",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 144,
+        "title": "Write a riddle",
+        "subtitle": "about time",
+        "category": "Fun"
+    },
+    {
+        "id": 145,
+        "title": "Explain dark patterns",
+        "subtitle": "in UX design",
+        "category": "Design"
+    },
+    {
+        "id": 146,
+        "title": "Create a Ruby class",
+        "subtitle": "with an initialize method",
+        "category": "Coding"
+    },
+    {
+        "id": 147,
+        "title": "Suggest a tea",
+        "subtitle": "for digestion aid",
+        "category": "Health"
+    },
+    {
+        "id": 148,
+        "title": "Draft a cancellation",
+        "subtitle": "email for a subscription",
+        "category": "Business"
+    },
+    {
+        "id": 149,
+        "title": "Explain gravity",
+        "subtitle": "and how it affects mass",
+        "category": "Science"
+    },
+    {
+        "id": 150,
+        "title": "Write a CSS animation",
+        "subtitle": "keyframe for fading in",
+        "category": "Coding"
+    },
+    {
+        "id": 151,
+        "title": "Plan a photoshoot",
+        "subtitle": "location and props list",
+        "category": "Creative"
+    },
+    {
+        "id": 152,
+        "title": "Write a bio",
+        "subtitle": "for a twitter account",
+        "category": "Social"
+    },
+    {
+        "id": 153,
+        "title": "Explain load balancing",
+        "subtitle": "in server architecture",
+        "category": "Tech"
+    },
+    {
+        "id": 154,
+        "title": "Create a Scala object",
+        "subtitle": "with a main function",
+        "category": "Coding"
+    },
+    {
+        "id": 155,
+        "title": "Suggest a podcast",
+        "subtitle": "about history",
+        "category": "Entertainment"
+    },
+    {
+        "id": 156,
+        "title": "Draft a complaint",
+        "subtitle": "letter to a city council",
+        "category": "Writing"
+    },
+    {
+        "id": 157,
+        "title": "Explain neurons",
+        "subtitle": "and how they transmit signals",
+        "category": "Science"
+    },
+    {
+        "id": 158,
+        "title": "Write a Makefile",
+        "subtitle": "to compile C code",
+        "category": "Coding"
+    },
+    {
+        "id": 159,
+        "title": "Plan a budget",
+        "subtitle": "for a kitchen renovation",
+        "category": "Finance"
+    },
+    {
+        "id": 160,
+        "title": "Write a caption",
+        "subtitle": "for an Instagram sunset",
+        "category": "Social"
+    },
+    {
+        "id": 161,
+        "title": "Explain Kubernetes",
+        "subtitle": "pods and services",
+        "category": "Tech"
+    },
+    {
+        "id": 162,
+        "title": "Create a PHP script",
+        "subtitle": "to send an email",
+        "category": "Coding"
+    },
+    {
+        "id": 163,
+        "title": "Suggest a destination",
+        "subtitle": "for a solo traveler",
+        "category": "Travel"
+    },
+    {
+        "id": 164,
+        "title": "Draft a welcome email",
+        "subtitle": "for new subscribers",
+        "category": "Business"
+    },
+    {
+        "id": 165,
+        "title": "Explain black holes",
+        "subtitle": "event horizon and singularity",
+        "category": "Science"
+    },
+    {
+        "id": 166,
+        "title": "Write a Rust function",
+        "subtitle": "with error handling",
+        "category": "Coding"
+    },
+    {
+        "id": 167,
+        "title": "Plan a morning routine",
+        "subtitle": "for maximum productivity",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 168,
+        "title": "Write a pun",
+        "subtitle": "about vegetables",
+        "category": "Fun"
+    },
+    {
+        "id": 169,
+        "title": "Explain Microservices",
+        "subtitle": "vs Monolithic architecture",
+        "category": "Tech"
+    },
+    {
+        "id": 170,
+        "title": "Create a Vue component",
+        "subtitle": "with a data property",
+        "category": "Coding"
+    },
+    {
+        "id": 171,
+        "title": "Suggest a workout",
+        "subtitle": "for core strength",
+        "category": "Health"
+    },
+    {
+        "id": 172,
+        "title": "Draft a query letter",
+        "subtitle": "to a literary agent",
+        "category": "Writing"
+    },
+    {
+        "id": 173,
+        "title": "Explain genetics",
+        "subtitle": "DNA and RNA basics",
+        "category": "Science"
+    },
+    {
+        "id": 174,
+        "title": "Write a Perl script",
+        "subtitle": "to read a text file",
+        "category": "Coding"
+    },
+    {
+        "id": 175,
+        "title": "Plan a charity event",
+        "subtitle": "fundraising ideas",
+        "category": "Social"
+    },
+    {
+        "id": 176,
+        "title": "Write a monologue",
+        "subtitle": "for a villain character",
+        "category": "Creative"
+    },
+    {
+        "id": 177,
+        "title": "Explain SSD vs HDD",
+        "subtitle": "storage differences",
+        "category": "Tech"
+    },
+    {
+        "id": 178,
+        "title": "Create a Kotlin class",
+        "subtitle": "for an Android activity",
+        "category": "Coding"
+    },
+    {
+        "id": 179,
+        "title": "Suggest a snack",
+        "subtitle": "high in protein",
+        "category": "Food"
+    },
+    {
+        "id": 180,
+        "title": "Draft a memo",
+        "subtitle": "about holiday hours",
+        "category": "Business"
+    },
+    {
+        "id": 181,
+        "title": "Explain magnetism",
+        "subtitle": "poles and fields",
+        "category": "Science"
+    },
+    {
+        "id": 182,
+        "title": "Write a R script",
+        "subtitle": "for statistical analysis",
+        "category": "Coding"
+    },
+    {
+        "id": 183,
+        "title": "Plan a camping trip",
+        "subtitle": "essential gear list",
+        "category": "Travel"
+    },
+    {
+        "id": 184,
+        "title": "Write a joke",
+        "subtitle": "about a chemist",
+        "category": "Fun"
+    },
+    {
+        "id": 185,
+        "title": "Explain cookies",
+        "subtitle": "in web browsing",
+        "category": "Tech"
+    },
+    {
+        "id": 186,
+        "title": "Create a Shell script",
+        "subtitle": "to check disk usage",
+        "category": "Coding"
+    },
+    {
+        "id": 187,
+        "title": "Suggest a flower",
+        "subtitle": "that blooms in winter",
+        "category": "Nature"
+    },
+    {
+        "id": 188,
+        "title": "Draft a proposal",
+        "subtitle": "for a new software tool",
+        "category": "Business"
+    },
+    {
+        "id": 189,
+        "title": "Explain dopamine",
+        "subtitle": "role in the brain",
+        "category": "Science"
+    },
+    {
+        "id": 190,
+        "title": "Write a Matlab script",
+        "subtitle": "to plot a sine wave",
+        "category": "Coding"
+    },
+    {
+        "id": 191,
+        "title": "Plan a surprise",
+        "subtitle": "anniversary dinner",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 192,
+        "title": "Write a slogan",
+        "subtitle": "for a fitness brand",
+        "category": "Marketing"
+    },
+    {
+        "id": 193,
+        "title": "Explain IP addresses",
+        "subtitle": "IPv4 vs IPv6",
+        "category": "Tech"
+    },
+    {
+        "id": 194,
+        "title": "Create a Dart class",
+        "subtitle": "for a Flutter widget",
+        "category": "Coding"
+    },
+    {
+        "id": 195,
+        "title": "Suggest a cheese",
+        "subtitle": "to pair with crackers",
+        "category": "Food"
+    },
+    {
+        "id": 196,
+        "title": "Draft a polite decline",
+        "subtitle": "to a wedding invitation",
+        "category": "Social"
+    },
+    {
+        "id": 197,
+        "title": "Explain antibiotics",
+        "subtitle": "and bacterial resistance",
+        "category": "Science"
+    },
+    {
+        "id": 198,
+        "title": "Write a Terraform plan",
+        "subtitle": "for an AWS instance",
+        "category": "Coding"
+    },
+    {
+        "id": 199,
+        "title": "Plan a decluttering",
+        "subtitle": "schedule for the home",
+        "category": "Lifestyle"
+    },
+    {
+        "id": 200,
+        "title": "Write a haiku",
+        "subtitle": "about the sunrise",
+        "category": "Creative"
+    }
+]

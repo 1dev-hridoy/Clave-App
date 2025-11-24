@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<%- include('partials/head') %>
+
+    <body class="h-screen flex flex-col overflow-hidden text-sm antialiased bg-slate-950">
+        <%- include('partials/header') %>
+
+
+            <div class="flex-1 flex flex-col relative overflow-hidden">
+                <%- include('partials/chat-area') %>
+
+                    <%- include('partials/input-area') %>
+            </div>
+
+
+            <div id="reset-modal"
+                class="fixed inset-0 bg-black/50 backdrop-blur-sm z-50 hidden opacity-0 transition-opacity duration-200 flex items-center justify-center p-4">
+                <div
+                    class="bg-slate-900 border border-slate-800 rounded-xl max-w-md w-full p-6 scale-95 transition-transform duration-200">
+                    <div class="text-center">
+                        <div
+                            class="mx-auto bg-red-500/10 text-red-400 p-3 rounded-full w-12 h-12 flex items-center justify-center mb-4">
+                            <i data-lucide="alert-triangle" class="h-6 w-6"></i>
+                        </div>
+                        <h3 class="text-lg font-semibold text-white mb-2">Confirm New Chat</h3>
+                        <p class="text-gray-400 mb-6">This will clear the current conversation and start a new chat.
+                            This action cannot be undone.</p>
+                        <div class="flex justify-center gap-3">
+                            <button onclick="closeResetModal()"
+                                class="px-4 py-2 bg-white/10 hover:bg-white/20 text-gray-300 rounded-md transition-colors text-sm font-medium">
+                                Cancel
+                            </button>
+                            <button onclick="confirmReset()"
+                                class="px-4 py-2 bg-red-500/10 text-red-400 hover:bg-red-500/20 border border-red-500/20 rounded-md transition-colors text-sm font-medium">
+                                Confirm
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <script src="/js/script.js"></script>
+    </body>
+
+</html>

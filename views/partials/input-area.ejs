@@ -1,0 +1,50 @@
+<div id="input-area"
+    class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-slate-950 via-slate-950 to-transparent pt-10 pb-6 px-4">
+    <div class="max-w-3xl mx-auto">
+        <div class="mb-3 flex items-center gap-2 flex-wrap">
+            <label for="model-select" class="text-sm text-slate-400 flex items-center gap-2">
+                <i data-lucide="cpu" class="h-4 w-4"></i>
+                Model:
+            </label>
+            <select id="model-select" onchange="handleModelChange()"
+                class="px-3 py-1.5 bg-slate-800/80 text-slate-200 border border-slate-700/50 rounded-lg text-sm focus:outline-none focus:border-blue-500/50 transition-colors">
+                <optgroup label="💬 Chat Models">
+                    <option value="gpt-4o">GPT-4o mini (Fast)</option>
+                    <option value="gpt-3.5">ChatGPT 3.5 (Lightweight)</option>
+                    <option value="default">Default (GPT-4o)</option>
+                </optgroup>
+                <optgroup label="🎨 Image Models">
+                    <option value="deepimg">DeepImg (AI Image Generator)</option>
+                </optgroup>
+            </select>
+
+            <div id="image-options" class="hidden flex items-center gap-2">
+                <label class="text-sm text-slate-400">Style:</label>
+                <select id="style-select"
+                    class="px-3 py-1.5 bg-slate-800/80 text-slate-200 border border-slate-700/50 rounded-lg text-sm focus:outline-none focus:border-blue-500/50 transition-colors">
+                    <option value="default">Realism</option>
+                    <option value="anime">Anime</option>
+                    <option value="ghibli">Ghibli Art</option>
+                    <option value="cyberpunk">Cyberpunk</option>
+                    <option value="portrait">Portrait</option>
+                    <option value="3d">3D</option>
+                </select>
+            </div>
+        </div>
+
+        <div
+            class="relative flex items-end w-full p-4 bg-slate-800/50 rounded-2xl border border-slate-700/50 shadow-lg focus-within:border-blue-500/30 focus-within:shadow-blue-500/10 focus-within:shadow-xl transition-all duration-200 backdrop-blur-sm">
+            <textarea id="user-input" rows="1"
+                class="w-full max-h-[200px] py-0 pr-10 bg-transparent text-slate-200 placeholder-slate-400 border-0 focus:ring-0 resize-none outline-none leading-6"
+                placeholder="Send a message..." onkeydown="handleEnter(event)" oninput="autoResize(this)"></textarea>
+            <button onclick="sendMessage()"
+                class="absolute right-3 bottom-2.5 p-2 rounded-lg text-slate-400 hover:text-white hover:bg-blue-600 transition-all duration-200 disabled:opacity-30 disabled:hover:bg-transparent disabled:hover:text-slate-400"
+                id="send-btn">
+                <i data-lucide="send" class="h-4 w-4"></i>
+            </button>
+        </div>
+        <div class="text-center text-xs text-gray-500 mt-3">
+            Free Research Preview. ChatGPT may produce inaccurate information about people, places, or facts.
+        </div>
+    </div>
+</div>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+
+<%- include('partials/landing-head', { title: webConfig.siteName + ' | Page Not Found' , cssPath: '/css/landing.css' })
+    %>
+
+    <body class="overflow-x-hidden">
+
+
+        <div class="fixed inset-0 bg-grid-pattern z-[-1] pointer-events-none"></div>
+        <div
+            class="fixed top-0 left-1/2 -translate-x-1/2 w-[1000px] h-[500px] bg-blue-500/10 blur-[120px] rounded-full pointer-events-none z-[-1]">
+        </div>
+
+        <%- include('partials/landing-navbar') %>
+
+            <main class="flex-1">
+
+
+                <section class="container relative max-w-screen-2xl mx-auto px-6 pt-32 pb-24 md:pt-48 md:pb-32">
+                    <div class="flex flex-col items-center text-center space-y-8">
+
+
+                        <h1 class="text-4xl font-extrabold tracking-tight lg:text-6xl max-w-3xl">
+                            404 - Page Not Found
+                        </h1>
+
+
+                        <p class="max-w-[700px] text-lg text-muted-foreground">
+                            Oops! The page you're looking for doesn't exist or has been moved.
+                        </p>
+
+
+                        <div class="flex flex-col sm:flex-row gap-4">
+                            <a href="/"
+                                class="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-11 px-8">
+                                Go Home
+                            </a>
+                            <a href="/docs"
+                                class="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input bg-background hover:bg-accent hover:text-accent-foreground h-11 px-8">
+                                Read Documentation
+                            </a>
+                        </div>
+
+                    </div>
+                </section>
+
+            </main>
+
+            <%- include('partials/landing-footer') %>
+
+                <!-- Libraries -->
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+                <script src="https://cdn.jsdelivr.net/gh/studio-freight/lenis@1.0.29/bundled/lenis.min.js"></script>
+
+
+                <script src="/js/landing.js"></script>
+    </body>
+
+</html>
