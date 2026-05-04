@@ -1,4 +1,4 @@
-![Clave App Banner](https://res.cloudinary.com/dwcwp9ebv/image/upload/clave-repo_wsrmkq.jpg)
+ ![Clave App Banner](https://res.cloudinary.com/dwcwp9ebv/image/upload/clave-repo_wsrmkq.jpg)
 
 # ![Batman](https://cdn-icons-png.flaticon.com/32/15468/15468240.png) Clave App - Your Personal AI Sanctuary
 
